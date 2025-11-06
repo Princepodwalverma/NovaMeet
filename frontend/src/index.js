@@ -20,4 +20,8 @@ root.render(
   </React.StrictMode>
 );
 
+<<<<<<< HEAD
 reportWebVitals();
+=======
+reportWebVitals();
+>>>>>>> c8620e9 (Updated frontend design)
